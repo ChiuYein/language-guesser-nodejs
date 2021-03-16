@@ -31,3 +31,14 @@ This is a simple language guesser based on user input that show in the terminal.
       //     "kor",
       //     ...
       // ]
+
+
+
+#### Running Locally
+Make sure you have [Node.js](http://nodejs.org/) installed.
+
+```
+   git clone https://github.com/ChiuYein/language-guesser-nodejs.git # or clone your own fork
+   cd language-guesser-nodejs
+   npm install
+   open terminal and run node index.js "<insert your text here>"
